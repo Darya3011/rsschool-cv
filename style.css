@@ -1,5 +1,10 @@
 .main-container {
     width: 800px;
     margin: auto;
-    
+
+}
+.photo {
+    width: 350px;
+    height: 250px;
+
 }
